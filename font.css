@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Futura";
+font-weight: normal;
+font-style: normal;
+
+src: url("../fonts/Futura.ttc");
+src: url("../fonts/Futura.ttc?#iefix") format("embedded-opentype"),
+url("../fonts/Futura.woff") format("woff"),
+url("../fonts/Futura.ttc") format("truetype");
+}
+@font-face {
+  font-family: "EuropeDemi";
+font-weight: normal;
+font-style: normal;
+
+src: url("../fonts/EUR___DM.otf");
+src: url("../fonts/EUR___DM.otf?#iefix") format("embedded-opentype"),
+url("../fonts//EUR___DM.woff") format("woff"),
+url("../fonts/EUR___DM.otf") format("truetype");
+}

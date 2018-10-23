@@ -1,2 +1,30 @@
 @import "reset.css";
-@import "font.css";
+body {
+  height: 100%;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+header {
+  display: flex;
+  flex-direction: column;
+
+  background:100%;
+    background-position: center;
+  background-size: cover;
+
+  justify-content: center;
+  align-items: center;
+}
+.heading, .heading2 {
+  color: #fff;
+
+  font-family: "Futura";
+  font-weight: bold;
+}
+.heading {
+  text-align: left;
+
+  font-size: 65px;
+}
