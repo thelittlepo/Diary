@@ -7,24 +7,54 @@ body {
 
 }
 header {
-  display: flex;
-  flex-direction: column;
+  overflow: hidden;
 
-  background:100%;
-    background-position: center;
+  width: 100%;
+  height: 100%;
+
+  background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%), url("Group.jpg");
   background-size: cover;
 
   justify-content: center;
-  align-items: center;
 }
 .heading, .heading2 {
+  letter-spacing: normal;
+
   color: #fff;
 
-  font-family: "Futura";
+  font-family: "FuturaDemiC";
   font-weight: bold;
 }
-.heading {
+.heading2 {
+  margin-top: 37px;
+  margin-left: 1157px;
+
   text-align: left;
 
-  font-size: 65px;
+  font-size: 30px;
+}
+.heading {
+  margin-top: 750px;
+  margin-bottom: 70px;
+  margin-left: 900px;
+
+  text-align: left;
+
+  font-size: 75px;
+
+}
+.socialmedia  {
+margin-top: -50px;
+margin-left: 161px;
+
+filter: invert(1);
+}
+.socialmedia a {
+  text-decoration: none;
+}
+img#crow {
+  position: fixed;
+  top: 570px;
+  left: 1100px;
+
 }
