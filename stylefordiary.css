@@ -26,6 +26,9 @@ header {
 
   overflow: hidden;
 }
+#crow:hover {
+  opacity: 0;
+}
 .heading, .heading2 {
   letter-spacing: normal;
 
@@ -83,7 +86,7 @@ filter: invert(1);
 
 }
 #framerx:hover {
-  color:#fff;
+  color: #4c789b;
 }
 ul {
 display: flex;
@@ -352,4 +355,65 @@ ul>li {
   font-family: "FuturaDemiC";
   font-size: 95px;
   font-weight: bold;
+}
+#counter2 {
+  margin-top: 256px;
+  margin-left: 996px;
+
+  text-align: left;
+
+  font-family: "FuturaDemiC";
+  font-size: 55px;
+  font-weight: bold;
+}
+#monday {
+  margin-top: 90px;
+  margin-left: 842px;
+
+  text-align: left;
+
+  font-family: "FuturaDemiC";
+  font-size: 75px;
+  font-weight: bold;
+
+}
+#monday:hover {
+  color: #4c789b;
+}
+#tired {
+  margin-top: -400px;
+  margin-bottom: 100px;
+  margin-left: 74px;
+
+}
+#tired:hover {
+  filter: blur(3px);
+}
+#oct8 {
+  margin-right: 200px;
+  margin-bottom: 50px;
+  margin-left: 200px;
+
+  font-family: "FuturaDemiC";
+  font-size: 20px;
+  font-weight: bold;
+  line-height: normal;
+}
+.resources2 {
+  display: flex;
+  flex-direction: column;
+
+  margin-top: -20px;
+  margin-bottom: 20px;
+
+  font-family: "FuturaDemiC";
+  font-size: 20px;
+  font-weight: bold;
+  line-height: normal;
+}
+
+a:visited, a {
+  text-decoration: none;
+
+  color:#1e2a38;
 }
