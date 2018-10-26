@@ -12,7 +12,7 @@ header {
   width: 1680px;
   height: 100%;
 
-  background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%), url("Group.jpg");
+  background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%), url(images/Group.jpg);
   background-size: cover;
 
   justify-content: center;
@@ -334,7 +334,7 @@ ul>li {
 .continue {
   display: flex;
 
-  background: url(/Users/afanasyevapolina/Documents/GitHub/Diary/paEIa6H7vWQ.jpg);
+  background: url(images/paEIa6H7vWQ.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 
