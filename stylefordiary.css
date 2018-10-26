@@ -2,6 +2,8 @@
 body {
   height: 100%;
 
+  background: url("background.jpg");
+
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
@@ -9,13 +11,20 @@ body {
 header {
   overflow: hidden;
 
-  width: 100%;
+  width: 1680px;
   height: 100%;
 
   background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.65) 100%), url("Group.jpg");
   background-size: cover;
 
   justify-content: center;
+}
+#crow {
+  position: fixed;
+  top: 570px;
+  left: 1100px;
+
+  overflow: hidden;
 }
 .heading, .heading2 {
   letter-spacing: normal;
@@ -52,9 +61,295 @@ filter: invert(1);
 .socialmedia a {
   text-decoration: none;
 }
-img#crow {
-  position: fixed;
-  top: 570px;
-  left: 1100px;
+#counter {
+  margin-top: 256px;
+  margin-left: 996px;
 
+  text-align: left;
+
+  font-family: "FuturaDemiC";
+  font-size: 55px;
+  font-weight: bold;
+}
+#framerx {
+  margin-top: 90px;
+  margin-left: 842px;
+
+  text-align: left;
+
+  font-family: "FuturaDemiC";
+  font-size: 75px;
+  font-weight: bold;
+
+}
+#framerx:hover {
+  color:#fff;
+}
+ul {
+display: flex;
+flex-direction: row;
+
+margin-top: 83px;
+margin-right: 478px;
+
+justify-content: flex-end;
+}
+ul>li {
+  margin: 5px;
+}
+#zuza {
+  margin-top: -800px;
+  margin-bottom: 100px;
+  margin-left: 74px;
+
+}
+.firstpar {
+  display: flex;
+  flex-direction: column;
+
+  vertical-align: middle;
+
+  justify-content: center;
+  align-items:  center;
+}
+#begins, #what {
+  margin-right: 100px;
+  margin-left: 100px;
+}
+#img8 {
+  margin-top: 30px;
+}
+#img8:hover {
+  filter: grayscale(100%);
+}
+#begins {
+  margin-top: 150px;
+
+  text-transform: uppercase;
+
+  font-family: "FuturaDemiC";
+  font-size: 25px;
+  font-weight: bold;
+}
+#what {
+  margin-top: 42px;
+
+  font-family: "FuturaDemiC";
+  font-size: 20px;
+  font-weight: bold;
+  line-height: normal;
+}
+.secondpar {
+  display: flex;
+  flex-direction: row-reverse;
+
+  vertical-align: middle;
+
+  justify-content: center;
+  align-items:  center;
+}
+#layout, #here {
+  margin-right: 100px;
+  margin-left: 100px;
+
+}
+#layout {
+  margin-top: 94px;
+
+  text-transform: uppercase;
+
+  font-family: "FuturaDemiC";
+  font-size: 25px;
+  font-weight: bold;
+}
+#here {
+  margin-top: 42px;
+
+  font-family: "FuturaDemiC";
+  font-size: 20px;
+  font-weight: bold;
+  line-height: normal;
+}
+#img9 {
+  margin-top: 70px;
+  margin-left: 100px;
+}
+#img9:hover {
+  filter: invert(100%);
+}
+.thirdpar {
+  display: flex;
+  flex-direction: row;
+
+  vertical-align: middle;
+
+  justify-content: center;
+  align-items:  center;
+}
+#Components, #what1 {
+  margin-right: 100px;
+  margin-left: 100px;
+
+}
+#Components {
+  margin-top: 94px;
+
+  text-transform: uppercase;
+
+  font-family: "FuturaDemiC";
+  font-size: 25px;
+  font-weight: bold;
+}
+#what1 {
+  margin-top: 42px;
+
+  font-family: "FuturaDemiC";
+  font-size: 20px;
+  font-weight: bold;
+  line-height: normal;
+}
+#img7 {
+  margin-top: 70px;
+  margin-right: 100px;
+}
+#img7:hover {
+  filter: invert(100%);
+}
+.fourthpar {
+  display: flex;
+  flex-direction: column;
+
+  vertical-align: middle;
+
+  justify-content: center;
+  align-items:  center;
+}
+#Drawing, #how {
+  margin-right: 100px;
+  margin-left: 100px;
+}
+#img9 {
+  margin-top: 30px;
+  margin-right: 100px;
+}
+#img4 {
+  margin-top: 30px;
+}
+#img4:hover {
+  filter: grayscale(100%);
+}
+#Drawing {
+  margin-top: 150px;
+
+  text-transform: uppercase;
+
+  font-family: "FuturaDemiC";
+  font-size: 25px;
+  font-weight: bold;
+}
+#how {
+  margin-top: 42px;
+
+  font-family: "FuturaDemiC";
+  font-size: 20px;
+  font-weight: bold;
+  line-height: normal;
+}
+.fifthpar {
+  display: flex;
+  flex-direction: row-reverse;
+
+  vertical-align: middle;
+
+  justify-content: center;
+  align-items:  center;
+}
+#Interactive, #there {
+  margin-right: 100px;
+  margin-left: 100px;
+
+}
+#Interactive {
+  margin-top: 94px;
+
+  text-transform: uppercase;
+
+  font-family: "FuturaDemiC";
+  font-size: 25px;
+  font-weight: bold;
+}
+#there {
+  margin-top: 42px;
+
+  font-family: "FuturaDemiC";
+  font-size: 20px;
+  font-weight: bold;
+  line-height: normal;
+}
+#img12 {
+  margin-top: 70px;
+  margin-left: 100px;
+}
+#img12:hover {
+  filter: invert(100%);
+}
+.sixthpar {
+  display: flex;
+  flex-direction: column;
+
+  vertical-align: middle;
+
+  justify-content: center;
+  align-items:  center;
+}
+#Stack, #why {
+  margin-right: 100px;
+  margin-left: 100px;
+}
+#img14 {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+#img14:hover {
+  filter: grayscale(100%);
+}
+#Stack {
+  margin-top: 150px;
+
+  text-transform: uppercase;
+
+  font-family: "FuturaDemiC";
+  font-size: 25px;
+  font-weight: bold;
+}
+#why {
+  margin-top: 42px;
+
+  font-family: "FuturaDemiC";
+  font-size: 20px;
+  font-weight: bold;
+  line-height: normal;
+}
+.continue {
+  display: flex;
+
+  background: url(/Users/afanasyevapolina/Documents/GitHub/Diary/paEIa6H7vWQ.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  align-items: center;
+  justify-content: center;
+}
+#continue {
+  margin-top: 550px;
+  margin-bottom: 550px;
+
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #fff;
+
+  font-family: "FuturaDemiC";
+  font-size: 95px;
+  font-weight: bold;
 }
