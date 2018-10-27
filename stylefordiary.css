@@ -1,6 +1,7 @@
 @import "reset.css";
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates:100,300,400,500,600,700,900');
 body {
-  overflow: scroll;
+  overflow-x: hidden;
 
   height: 100%;
 
@@ -34,8 +35,8 @@ header {
 
   color: #fff;
 
-  font-family: "FuturaDemiC";
-  font-weight: normal;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-weight: bold;
 }
 .heading2 {
   margin-top: 37px;
@@ -70,9 +71,9 @@ filter: invert(1);
 
   text-align: left;
 
-  font-family: "FuturaDemiC";
+  font-family: 'Montserrat Alternates', sans-serif;
   font-size: 55px;
-  font-weight: normal;
+  font-weight: bold;
 }
 #framerx {
   margin-top: 90px;
@@ -80,9 +81,9 @@ filter: invert(1);
 
   text-align: left;
 
-  font-family: "FuturaDemiC";
+  font-family: 'Montserrat Alternates', sans-serif;
   font-size: 75px;
-  font-weight: normal;
+  font-weight: bold;
 
 }
 #framerx:hover {
@@ -130,16 +131,16 @@ ul>li {
 
   text-transform: uppercase;
 
-  font-family: "FuturaDemiC";
-  font-size: 25px;
-  font-weight: normal;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
 }
 #what {
   margin-top: 42px;
 
-  font-family: "FuturaDemiC";
-  font-size: 20px;
-  font-weight: normal;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 25px;
+  font-weight: 400;
   line-height: normal;
 }
 .secondpar {
@@ -161,16 +162,16 @@ ul>li {
 
   text-transform: uppercase;
 
-  font-family: "FuturaDemiC";
-  font-size: 25px;
-  font-weight: normal;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
 }
 #here {
   margin-top: 42px;
 
-  font-family: "FuturaDemiC";
-  font-size: 20px;
-  font-weight: normal;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 25px;
+  font-weight: 400;
   line-height: normal;
 }
 #img9 {
@@ -199,16 +200,16 @@ ul>li {
 
   text-transform: uppercase;
 
-  font-family: "FuturaDemiC";
-  font-size: 25px;
-  font-weight: normal;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
 }
 #what1 {
   margin-top: 42px;
 
-  font-family: "FuturaDemiC";
-  font-size: 20px;
-  font-weight: normal;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 25px;
+  font-weight: 400;
   line-height: normal;
 }
 #img7 {
@@ -246,16 +247,16 @@ ul>li {
 
   text-transform: uppercase;
 
-  font-family: "FuturaDemiC";
-  font-size: 25px;
-  font-weight: normal;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
 }
 #how {
   margin-top: 42px;
 
-  font-family: "FuturaDemiC";
-  font-size: 20px;
-  font-weight: normal;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 25px;
+  font-weight: 400;
   line-height: normal;
 }
 .fifthpar {
@@ -277,16 +278,16 @@ ul>li {
 
   text-transform: uppercase;
 
-  font-family: "FuturaDemiC";
-  font-size: 25px;
-  font-weight: normal;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
 }
 #there {
   margin-top: 42px;
 
-  font-family: "FuturaDemiC";
-  font-size: 20px;
-  font-weight: normal;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 25px;
+  font-weight: 400;
   line-height: normal;
 }
 #img12 {
@@ -321,16 +322,16 @@ ul>li {
 
   text-transform: uppercase;
 
-  font-family: "FuturaDemiC";
-  font-size: 25px;
-  font-weight: normal;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
 }
 #why {
   margin-top: 42px;
 
-  font-family: "FuturaDemiC";
-  font-size: 20px;
-  font-weight: normal;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 25px;
+  font-weight: 400;
   line-height: normal;
 }
 .continue {
@@ -352,9 +353,9 @@ ul>li {
 
   color: #fff;
 
-  font-family: "FuturaDemiC";
+  font-family: 'Montserrat Alternates', sans-serif;
   font-size: 95px;
-  font-weight: normal;
+  font-weight: bold;
 }
 #counter2 {
   margin-top: 256px;
@@ -362,9 +363,9 @@ ul>li {
 
   text-align: left;
 
-  font-family: "FuturaDemiC";
+  font-family: 'Montserrat Alternates', sans-serif;
   font-size: 55px;
-  font-weight: normal;
+  font-weight: bold;
 }
 #monday {
   margin-top: 90px;
@@ -372,9 +373,9 @@ ul>li {
 
   text-align: left;
 
-  font-family: "FuturaDemiC";
+  font-family: 'Montserrat Alternates', sans-serif;
   font-size: 75px;
-  font-weight: normal;
+  font-weight: bold;
 
 }
 #monday:hover {
@@ -394,22 +395,24 @@ ul>li {
   margin-bottom: 50px;
   margin-left: 200px;
 
-  font-family: "FuturaDemiC";
-  font-size: 20px;
-  font-weight: normal;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 25px;
+  font-weight: 400;
   line-height: normal;
 }
 .resources2 {
   display: flex;
   flex-direction: column;
 
-  margin-top: -20px;
-  margin-bottom: 20px;
+  margin-top: -25px;
+  margin-right: -200px;
+  margin-bottom: 25px;
 
-  font-family: "FuturaDemiC";
-  font-size: 20px;
-  font-weight: normal;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 25px;
+  font-weight: 400;
   line-height: normal;
+
 }
 
 a:visited, a {
@@ -423,9 +426,9 @@ a:visited, a {
 
   text-align: left;
 
-  font-family: "FuturaDemiC";
+  font-family: 'Montserrat Alternates', sans-serif;
   font-size: 55px;
-  font-weight: normal;
+  font-weight: bold;
 }
 #friday {
   margin-top: 90px;
@@ -433,9 +436,9 @@ a:visited, a {
 
   text-align: left;
 
-  font-family: "FuturaDemiC";
+  font-family: 'Montserrat Alternates', sans-serif;
   font-size: 75px;
-  font-weight: normal;
+  font-weight: bold;
 
 }
 #friday:hover {
@@ -458,14 +461,14 @@ a:visited, a {
   align-items: center;
 }
 #oct12 {
-  margin-top: 20px;
+  margin-top: 25px;
   margin-right: 200px;
   margin-bottom: 50px;
   margin-left: 200px;
 
-  font-family: "FuturaDemiC";
-  font-size: 20px;
-  font-weight: normal;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 25px;
+  font-weight: 400;
   line-height: normal;
 }
 #Kanban, #Kanban:visited {
@@ -481,9 +484,9 @@ a:visited, a {
 
   text-align: left;
 
-  font-family: "FuturaDemiC";
+  font-family: 'Montserrat Alternates', sans-serif;
   font-size: 55px;
-  font-weight: normal;
+  font-weight: bold;
 }
 #wednesday {
   margin-top: 90px;
@@ -491,9 +494,9 @@ a:visited, a {
 
   text-align: left;
 
-  font-family: "FuturaDemiC";
+  font-family: 'Montserrat Alternates', sans-serif;
   font-size: 75px;
-  font-weight: normal;
+  font-weight: bold;
 
 }
 #wednesday:hover {
@@ -514,9 +517,9 @@ a:visited, a {
   margin-bottom: 50px;
   margin-left: 200px;
 
-  font-family: "FuturaDemiC";
-  font-size: 20px;
-  font-weight: normal;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 25px;
+  font-weight: 400;
   line-height: normal;
 }
 #oct23 {
@@ -529,8 +532,8 @@ a:visited, a {
 
   color: black;
 
-  font-family: "FuturaDemiC";
+  font-family: 'Montserrat Alternates', sans-serif;
   font-size: 35px;
-  font-weight: normal;
+  font-weight: bold;
   line-height: 50px;
 }
