@@ -35,7 +35,7 @@ header {
   color: #fff;
 
   font-family: "FuturaDemiC";
-  font-weight: bold;
+  font-weight: normal;
 }
 .heading2 {
   margin-top: 37px;
@@ -72,7 +72,7 @@ filter: invert(1);
 
   font-family: "FuturaDemiC";
   font-size: 55px;
-  font-weight: bold;
+  font-weight: normal;
 }
 #framerx {
   margin-top: 90px;
@@ -82,7 +82,7 @@ filter: invert(1);
 
   font-family: "FuturaDemiC";
   font-size: 75px;
-  font-weight: bold;
+  font-weight: normal;
 
 }
 #framerx:hover {
@@ -132,14 +132,14 @@ ul>li {
 
   font-family: "FuturaDemiC";
   font-size: 25px;
-  font-weight: bold;
+  font-weight: normal;
 }
 #what {
   margin-top: 42px;
 
   font-family: "FuturaDemiC";
   font-size: 20px;
-  font-weight: bold;
+  font-weight: normal;
   line-height: normal;
 }
 .secondpar {
@@ -163,14 +163,14 @@ ul>li {
 
   font-family: "FuturaDemiC";
   font-size: 25px;
-  font-weight: bold;
+  font-weight: normal;
 }
 #here {
   margin-top: 42px;
 
   font-family: "FuturaDemiC";
   font-size: 20px;
-  font-weight: bold;
+  font-weight: normal;
   line-height: normal;
 }
 #img9 {
@@ -201,14 +201,14 @@ ul>li {
 
   font-family: "FuturaDemiC";
   font-size: 25px;
-  font-weight: bold;
+  font-weight: normal;
 }
 #what1 {
   margin-top: 42px;
 
   font-family: "FuturaDemiC";
   font-size: 20px;
-  font-weight: bold;
+  font-weight: normal;
   line-height: normal;
 }
 #img7 {
@@ -248,14 +248,14 @@ ul>li {
 
   font-family: "FuturaDemiC";
   font-size: 25px;
-  font-weight: bold;
+  font-weight: normal;
 }
 #how {
   margin-top: 42px;
 
   font-family: "FuturaDemiC";
   font-size: 20px;
-  font-weight: bold;
+  font-weight: normal;
   line-height: normal;
 }
 .fifthpar {
@@ -279,14 +279,14 @@ ul>li {
 
   font-family: "FuturaDemiC";
   font-size: 25px;
-  font-weight: bold;
+  font-weight: normal;
 }
 #there {
   margin-top: 42px;
 
   font-family: "FuturaDemiC";
   font-size: 20px;
-  font-weight: bold;
+  font-weight: normal;
   line-height: normal;
 }
 #img12 {
@@ -323,14 +323,14 @@ ul>li {
 
   font-family: "FuturaDemiC";
   font-size: 25px;
-  font-weight: bold;
+  font-weight: normal;
 }
 #why {
   margin-top: 42px;
 
   font-family: "FuturaDemiC";
   font-size: 20px;
-  font-weight: bold;
+  font-weight: normal;
   line-height: normal;
 }
 .continue {
@@ -354,7 +354,7 @@ ul>li {
 
   font-family: "FuturaDemiC";
   font-size: 95px;
-  font-weight: bold;
+  font-weight: normal;
 }
 #counter2 {
   margin-top: 256px;
@@ -364,7 +364,7 @@ ul>li {
 
   font-family: "FuturaDemiC";
   font-size: 55px;
-  font-weight: bold;
+  font-weight: normal;
 }
 #monday {
   margin-top: 90px;
@@ -374,7 +374,7 @@ ul>li {
 
   font-family: "FuturaDemiC";
   font-size: 75px;
-  font-weight: bold;
+  font-weight: normal;
 
 }
 #monday:hover {
@@ -396,7 +396,7 @@ ul>li {
 
   font-family: "FuturaDemiC";
   font-size: 20px;
-  font-weight: bold;
+  font-weight: normal;
   line-height: normal;
 }
 .resources2 {
@@ -408,7 +408,7 @@ ul>li {
 
   font-family: "FuturaDemiC";
   font-size: 20px;
-  font-weight: bold;
+  font-weight: normal;
   line-height: normal;
 }
 
@@ -425,7 +425,7 @@ a:visited, a {
 
   font-family: "FuturaDemiC";
   font-size: 55px;
-  font-weight: bold;
+  font-weight: normal;
 }
 #friday {
   margin-top: 90px;
@@ -435,7 +435,7 @@ a:visited, a {
 
   font-family: "FuturaDemiC";
   font-size: 75px;
-  font-weight: bold;
+  font-weight: normal;
 
 }
 #friday:hover {
@@ -465,7 +465,7 @@ a:visited, a {
 
   font-family: "FuturaDemiC";
   font-size: 20px;
-  font-weight: bold;
+  font-weight: normal;
   line-height: normal;
 }
 #Kanban, #Kanban:visited {
@@ -483,7 +483,7 @@ a:visited, a {
 
   font-family: "FuturaDemiC";
   font-size: 55px;
-  font-weight: bold;
+  font-weight: normal;
 }
 #wednesday {
   margin-top: 90px;
@@ -493,7 +493,7 @@ a:visited, a {
 
   font-family: "FuturaDemiC";
   font-size: 75px;
-  font-weight: bold;
+  font-weight: normal;
 
 }
 #wednesday:hover {
@@ -516,7 +516,7 @@ a:visited, a {
 
   font-family: "FuturaDemiC";
   font-size: 20px;
-  font-weight: bold;
+  font-weight: normal;
   line-height: normal;
 }
 #oct23 {
@@ -531,6 +531,6 @@ a:visited, a {
 
   font-family: "FuturaDemiC";
   font-size: 35px;
-  font-weight: bold;
+  font-weight: normal;
   line-height: 50px;
 }
